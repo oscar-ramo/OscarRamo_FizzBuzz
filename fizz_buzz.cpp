@@ -8,11 +8,11 @@ int main()
     scanf("%d", &n);
     for (int i = 1; i <= n; i++)
         if (i % 6 == 0)
-            printf("FIZZBUZZ\n");
+            printf("Mamakusa\n");
         else if (i % 2 == 0)
-            printf("FIZZ\n");
+            printf("Mamase\n");
         else if (i % 3 == 0)
-            printf("BUZZ\n");
+            printf("Mamasa\n");
         else
             printf("%d\n", i);
 }
