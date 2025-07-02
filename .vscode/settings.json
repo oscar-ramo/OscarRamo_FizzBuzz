@@ -3,5 +3,7 @@
   "C_Cpp.codeAnalysis.clangTidy.path": "clang-tidy",
   "C_Cpp.default.cppStandard": "c++17",
   "C_Cpp.default.compilerPath": "C:/Program Files/LLVM/bin/clang++.exe",
-  "editor.formatOnSave": true
+  // Formatter
+  "editor.formatOnSave": true,
+  "C_Cpp.clang_format_style": "file"
 }
